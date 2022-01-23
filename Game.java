@@ -182,7 +182,7 @@ public class Game {
             result = "Wygrał O";
         }else if(grid[0][2]== 'o' && grid[1][1]=='o' && grid[2][0] =='o'){
             result = "Wygrał O";
-        }else if(freeSpots==0 && result!="Wygrał X"||freeSpots==0 &&result!="Wygrał O"){
+        }else if (freeSpots==0 && result == "None"){
             result = "Remis";
         }
         return result;
