@@ -150,40 +150,41 @@ public class Game {
      */
     public String checkGameWinner(char [][]grid){
         String result = "None";
+        //check all win situation on tic-tac-toe grid
         if(grid[0][0]== 'x' && grid[0][1]=='x' && grid[0][2] =='x'){
-            result = "Wygrał X";
+            result = "Wygrał X"; //first column x
         }else if((grid[1][0]== 'x' && grid[1][1]=='x' && grid[1][2] =='x')){
-            result = "Wygrał X";
+            result = "Wygrał X"; //second column x
         }else if((grid[2][0]== 'x' && grid[2][1]=='x' && grid[2][2] =='x')) {
-            result = "Wygrał X";
+            result = "Wygrał X"; //third column x
         }else if((grid[0][0]== 'x' && grid[1][0]=='x' && grid[2][0] =='x')){
-            result = "Wygrał X";
+            result = "Wygrał X"; //first row x
         }else if((grid[0][1]== 'x' && grid[1][1]=='x' && grid[2][1] =='x')) {
-            result = "Wygrał X";
+            result = "Wygrał X"; //second row x
         }else if((grid[0][2]== 'x' && grid[1][2]=='x' && grid[2][2] =='x')) {
-            result = "Wygrał X";
+            result = "Wygrał X"; third row x
         }else if((grid[0][0]== 'x' && grid[1][1]=='x' && grid[2][2] =='x')) {
-            result = "Wygrał X";
+            result = "Wygrał X"; // diagonal x - \
         }else if((grid[0][2]== 'x' && grid[1][1]=='x' && grid[2][0] =='x')) {
-            result = "Wygrał X";
+            result = "Wygrał X"; // diagonal x - /
         }if(grid[0][0]== 'o' && grid[0][1]=='o' && grid[0][2] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // first column o
         }else if(grid[1][0]== 'o' && grid[1][1]=='o' && grid[1][2] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // second column o
         }else if(grid[2][0]== 'o' && grid[2][1]=='o' && grid[2][2] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // third column o
         }else if(grid[0][0]== 'o' && grid[1][0]=='o' && grid[2][0] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // first row o
         }else if(grid[0][1]== 'o' && grid[1][1]=='o' && grid[2][1] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // second row 0
         }else if(grid[0][2]== 'o' && grid[1][2]=='o' && grid[2][2] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // third row o
         }else if(grid[0][0]== 'o' && grid[1][1]=='o' && grid[2][2] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // diagonal 0 - \
         }else if(grid[0][2]== 'o' && grid[1][1]=='o' && grid[2][0] =='o'){
-            result = "Wygrał O";
+            result = "Wygrał O"; // diagonal 0 - /
         }else if (freeSpots==0 && result == "None"){
-            result = "Remis";
+            result = "Remis"; //if wino in 9th movement show proper win information
         }
         return result;
     }
