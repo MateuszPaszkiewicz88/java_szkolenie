@@ -9,7 +9,7 @@ public class Zad_1_4 {
         System.out.println("Program obliczający objętość kuli.");
         System.out.println("Proszę podać promień kuli: ");
         r = Double.parseDouble(br.readLine());
-        result = ((4/3) * Math.PI * Math.pow(r,3));
+        result = (4 * Math.PI * Math.pow(r,3))/3;
         System.out.printf("Objętość kuli wynosi: "+ "%2.2f",result);
     }
 }
