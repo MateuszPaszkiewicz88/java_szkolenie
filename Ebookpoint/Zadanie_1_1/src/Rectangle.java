@@ -1,8 +1,9 @@
+import java.io.IOException;
 import java.util.Scanner;
 
 public class Rectangle {
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         double a, b, field;
 

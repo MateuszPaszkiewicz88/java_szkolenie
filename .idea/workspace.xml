@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4336e3b-8113-46cb-addb-c79879b1d090" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_1_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/Zadanie_1_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/out/production/Zadanie_1_1/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/src/Rectangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Mateusz/Documents/GitHub/java_szkolenie"
+    "last_opened_file_path": "C:/Users/Mateusz/Documents/GitHub/java_szkolenie/Ebookpoint"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649150334240</updated>
       <workItem from="1650438059731" duration="239000" />
+      <workItem from="1650439105540" duration="19000" />
     </task>
     <servers />
   </component>
