@@ -29,7 +29,7 @@ public class Zad_2_1_a {
         int side_b = triangles.get(1);
         int side_c = triangles.get(2);
         if(side_a+side_b<=side_c){
-            System.out.println("Podane proste nie mogą utworzyć trójkąta");
+            System.out.println("Podane proste nie mogą utworzyć trójkąta.");
         }else{
             if(side_a * side_a + side_b * side_b == side_c * side_c){
                 System.out.println("Podany trójkąt jest prostokątny.");
