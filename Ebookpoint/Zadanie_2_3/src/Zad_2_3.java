@@ -21,7 +21,6 @@ public class Zad_2_3 {
         if (delta < 0) howManyPower = 0;
         if (delta == 0) howManyPower = 1;
         if (delta > 0) howManyPower = 2;
-        System.out.println(howManyPower);
         switch (howManyPower) {
             case 0 -> System.out.println("Brak pieriastków");
             case 1 -> {
