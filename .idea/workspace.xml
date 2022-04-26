@@ -5,19 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4336e3b-8113-46cb-addb-c79879b1d090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadanie_1_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/Zadanie_1_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/out/production/Zadanie_1_1/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadanie_1_1/src/Rectangle.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebookpoint/Zadanie_2_4/Zadanie_2_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebookpoint/Zadanie_2_4/src/Zad_2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,10 +46,35 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Mateusz/Documents/GitHub/java_szkolenie/Ebookpoint"
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "/home/mateusz/Java/java_szkolenie",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Zad_2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zad_2_4" />
+      <module name="Zadanie_2_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zad_2_4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +85,9 @@
       <updated>1649150334240</updated>
       <workItem from="1650438059731" duration="239000" />
       <workItem from="1650439105540" duration="19000" />
+      <workItem from="1650960419224" duration="162000" />
+      <workItem from="1650961256990" duration="145000" />
+      <workItem from="1650961690266" duration="849000" />
     </task>
     <servers />
   </component>
